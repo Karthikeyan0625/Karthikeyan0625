@@ -162,7 +162,7 @@ me = Karthikeyan()
 
 <div align="center">
 
-📫 **Reach me:** [Email](mailto:karthikeyanm0625@gmail.com) · [GitHub](https://github.com/Karthikeyan0625)
+📫 **Reach me:** [Email](mailto:karthikeyanm0625@gmail.com) · [LinkedIn](https://www.linkedin.com/in/karthikeyan-murugan0625/) · [GitHub](https://github.com/Karthikeyan0625) · 📱 +91 8610233295
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
