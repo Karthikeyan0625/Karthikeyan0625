@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Karthikeyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Automation%20Developer%20%7C%20Data%20Analyst&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Karthikeyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Data%20Science%20-%20Automation%20Developer%20-%20Data%20Analyst&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/Karthikeyan0625">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+and+Data+Science+Engineer;Automation+and+Workflow+Developer;Data+Analyst+%7C+Power+BI+%2B+Python;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+and+Data+Science+Engineer;Automation+and+Workflow+Developer;Data+Analyst+and+Power+BI;Building+Production+Grade+AI+Systems" alt="Typing SVG" />
 </a>
 
 </div>
