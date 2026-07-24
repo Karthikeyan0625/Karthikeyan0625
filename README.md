@@ -119,6 +119,9 @@ me = Karthikeyan()
 
 | Project | Stack | Highlights |
 |---|---|---|
+| [**Vitals — Universal Medical Report Analyzer**](https://github.com/Karthikeyan0625)|Python,Machine Learning, FastAPI, React, PyTorch, Firebase (Auth + Firestore),Vecel and Render used deploy|Kindly Click :https://medical-report-analyzer-ebon.vercel.app| Built a full-stack AI system that auto-detects and analyzes 4 types of medical reports (blood test, X-ray, CT, MRI) from a single 
+upload, routing each to a specialized model. Trained 3 CNN models via transfer learning (ResNet18) for disease detection: X-ray pneumonia classifier (86.5% accuracy), CT 
+COVID/non-COVID classifier (98.9%), and 4-class MRI brain-tumor classifier (94.8%). Designed a separate modality-detection CNN (100% accuracy) that identifies report type from the image itself, enabling any file,auto-routed behavior without manual selection.| 
 | [**AutoSocial AI**](https://github.com/Karthikeyan0625) | Python, FastAPI, MySQL, Cloudinary, Google OAuth, n8n, OpenAI API | Automated content creation & scheduling across Instagram, Facebook, LinkedIn · 90%+ manual effort reduction · AI captions & hashtag generation via OpenAI API |
 | [**AI-Driven Smart Attendance Automation System**](https://github.com/Karthikeyan0625) | Python, n8n, Google Sheets, Telegram Bot, REST API | Face-recognition attendance for 100+ students · 90%+ error reduction · Real-time Telegram insights & parent alerts |
 | [**Advanced Multi-Functional Smart Robot System**](https://github.com/Karthikeyan0625) | Arduino, Embedded Systems, Bluetooth, IR & Ultrasonic Sensors | 5 control modes (line-following, obstacle avoidance, voice, mobile, human-following) · Telecast on Vijay TV's Pitch It On |
@@ -136,7 +139,7 @@ me = Karthikeyan()
 | 🥈 | 2nd Prize — Project Expo | Indra Ganesan College of Engineering |
 | 📺 | National TV Feature | Smart Robot System telecast on Vijay TV (Pitch It On) |
 | 🧩 | Hackathon Participant | SDG Hackathon 2026 (Velammal Institute of Technology) & Hackfest 2024 (Erode Sengunthar Engineering College) |
-| 🎓 | Certifications | Microsoft Generative AI · n8n AI Agent Builder (Simplilearn) · Power BI for Beginners (Simplilearn) · Python DSA (Unstop) |
+| 🎓 | Certifications | Machine Learning Python -Microsoft Generative AI · n8n AI Agent Builder (Simplilearn) · Power BI for Beginners (Simplilearn) · Python DSA (Unstop) |
 | 👨‍🏫 | Community | Conducted n8n Automation Workshop for 30+ students at IGCE |
 
 </div>
@@ -156,7 +159,7 @@ me = Karthikeyan()
 
 ```text
 🧱 Generative AI → RAG pipelines, prompt engineering, LLM orchestration
-🤖 AI Agents → n8n agent workflows, multi-step automation
+🤖 AI Agents → n8n agent workflows, multi-step automation ,RPA Ui path Studio
 📊 DSA → Advanced data structures & algorithms (Python)
 ```
 
